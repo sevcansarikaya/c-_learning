@@ -98,7 +98,7 @@ Console.WriteLine("Merhaba");
 //      break;
   
 // }
-int y=11;
+// int y=11;
 // switch (y)
 // {
 //     case 3:
@@ -111,6 +111,7 @@ int y=11;
 
   
 // }
+ 
 
 
 
