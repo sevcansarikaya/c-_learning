@@ -65,11 +65,55 @@ Console.WriteLine("Merhaba");
 // Console.WriteLine(date);
 // Console.WriteLine(String.Format("{0:dd/MM/yyyy}", date));
 
-Product product = new Product();
-product.Name = "yeşil renkli abiye";
-product.Description = "Çok güzel bir ürün";
-product.Price = 200;
-product.DiscountedPrice = 100;
-product.CreatedDate = DateTime.Now;
 
-Console.WriteLine($"{product.Name} ürünün fiyatı {product.DiscountedPrice} TL dir");
+
+// Product product = new Product();
+// product.Name = "yeşil renkli abiye";
+// product.Description = "Çok güzel bir ürün";
+// product.Price = 200;
+// product.DiscountedPrice = 100;
+// product.CreatedDate = DateTime.Now;
+
+// Console.WriteLine($"{product.Name} ürünün fiyatı {product.DiscountedPrice} TL dir");
+
+// string s = "123";
+// int y = Convert.ToInt32(s); //artık string türünü int e çevirebildik.
+
+
+// int x = 15;
+
+// Console.WriteLine(++x);    //ekrana 16 yazdırır.
+
+// Console.WriteLine(x++);
+// Console.WriteLine(x); // burda ilk yazdıgımızda 15 ekrana yazar ama x yıne artırılmıştır tekrar biz x i ekrana yazdırırsak 16 yazılır
+
+// int x=10;
+// switch (x)
+// {
+//     case 11:
+//     Console.WriteLine("hata"); // yukarıdaki case sağlamadıgı için direkt burayı es geçti.
+//      break ;
+//      case 10:
+//      Console.WriteLine("değer 10");
+//      break;
+  
+// }
+int y=11;
+// switch (y)
+// {
+//     case 3:
+//     Console.WriteLine(3);
+//     break;
+//     case 14:
+//     Console.WriteLine(14);
+//     break;
+//     case 11: goto case 14;
+
+  
+// }
+
+
+
+
+
+
