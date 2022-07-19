@@ -91,7 +91,7 @@ Console.WriteLine("Merhaba");
 // switch (x)
 // {
 //     case 11:
-//     Console.WriteLine("hata"); // yukarıdaki case sağlamadıgı için direkt burayı es geçti.
+//     Console.WriteLine("değer 11"); // yukarıdaki case sağlamadıgı için direkt burayı es geçti.
 //      break ;
 //      case 10:
 //      Console.WriteLine("değer 10");

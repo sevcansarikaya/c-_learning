@@ -1,2 +1,6 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿
+
+Console.WriteLine("lütfen isminizi giriniz:");
+string isim=Convert.ToString(Console.ReadLine());
+
+Console.WriteLine((char)123);
