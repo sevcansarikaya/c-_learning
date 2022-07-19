@@ -96,7 +96,7 @@ Console.WriteLine("Merhaba");
 //      case 10:
 //      Console.WriteLine("değer 10");
 //      break;
-  
+
 // }
 // int y=11;
 // switch (y)
@@ -109,9 +109,16 @@ Console.WriteLine("Merhaba");
 //     break;
 //     case 11: goto case 14;
 
-  
+
 // }
- 
+// using static System.Console;
+// FinishProgramGreeting("yusuf");
+
+// void FinishProgramGreeting(string name)
+// {
+//     Console.WriteLine($"hello {name}; this program has been finished. see you");
+
+// }
 
 
 

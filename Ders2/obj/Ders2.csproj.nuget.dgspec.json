@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sevca\\Desktop\\Github\\Eğitim\\Ders2\\Ders2.csproj": {}
+    "C:\\Users\\sevca\\Desktop\\Github\\Eğitim\\ders2\\Ders2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sevca\\Desktop\\Github\\Eğitim\\Ders2\\Ders2.csproj": {
+    "C:\\Users\\sevca\\Desktop\\Github\\Eğitim\\ders2\\Ders2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sevca\\Desktop\\Github\\Eğitim\\Ders2\\Ders2.csproj",
+        "projectUniqueName": "C:\\Users\\sevca\\Desktop\\Github\\Eğitim\\ders2\\Ders2.csproj",
         "projectName": "Ders2",
-        "projectPath": "C:\\Users\\sevca\\Desktop\\Github\\Eğitim\\Ders2\\Ders2.csproj",
+        "projectPath": "C:\\Users\\sevca\\Desktop\\Github\\Eğitim\\ders2\\Ders2.csproj",
         "packagesPath": "C:\\Users\\sevca\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sevca\\Desktop\\Github\\Eğitim\\Ders2\\obj\\",
+        "outputPath": "C:\\Users\\sevca\\Desktop\\Github\\Eğitim\\ders2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sevca\\AppData\\Roaming\\NuGet\\NuGet.Config"
