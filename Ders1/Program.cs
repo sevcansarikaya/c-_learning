@@ -1,11 +1,11 @@
 ﻿using Envanter;
 
 Console.WriteLine("Merhaba");
-// string name = "sevcan sarıkaya";
+//string name = "sevcan sarıkaya";
 
 // byte cityNumber = 23;
 // short certificateCount = 1000;
-// int age = 19;
+ //int age = 19;
 
 // double salary = 250.25;
 // float salary2 = 250.25F;
@@ -17,7 +17,7 @@ Console.WriteLine("Merhaba");
 // Console.WriteLine("{0}; {1} yaşında ve {2} TL kazanıyor", name, age, salary);
 // Console.WriteLine($"{name}; {age} yaşında ve {salary} TL kazanıyor");
 // var message = $"{name}; {age} yaşında ve {salary} TL kazanıyor";
-// var message2 = name + "; " + age + " yaşında ve " + salary + " TL kazanıyor";
+ //var message2 = name + "; " + age + " yaşında ve " + salary + " TL kazanıyor";
 // Console.WriteLine(message);
 // Console.WriteLine(message2);
 
