@@ -21,3 +21,35 @@
 // Console.WriteLine(result);
 
 Console.WriteLine("MErhaba");
+
+// string ch = Console.ReadLine()!;
+
+// Console.WriteLine(status(ch));
+
+// switch (ch)
+// {
+//     case "aa":
+//         Console.WriteLine("a ya bastın");
+//         break;
+//     case "bb":
+//         Console.WriteLine("b ye bastın");
+//         break;
+//     default:
+//         Console.WriteLine("başka bir tuşa bastın");
+//         break;
+// }
+
+
+
+
+// // Expression body
+// string status(string s) => s switch
+// {
+//     "aa" => "geçtin".ToUpper(),
+//     "bb" => "geçtin ama yetersiz".ToUpper(),
+//     "cc" => "yetersiz".ToUpper(),
+//     "dd" => "kaldın".ToUpper(),
+//     _ => "sevcan".ToUpper()
+// };
+
+

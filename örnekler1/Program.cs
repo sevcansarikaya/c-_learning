@@ -41,39 +41,9 @@
 //     }
 // }
 // Console.WriteLine("50 den küçük girilen sayı adeti : " + adet1);
+     
 
-
-
-// string ch = Console.ReadLine()!;
-
-// Console.WriteLine(status(ch));
-
-// switch (ch)
-// {
-//     case "aa":
-//         Console.WriteLine("a ya bastın");
-//         break;
-//     case "bb":
-//         Console.WriteLine("b ye bastın");
-//         break;
-//     default:
-//         Console.WriteLine("başka bir tuşa bastın");
-//         break;
-// }
-
-
-
-
-// // Expression body
-// string status(string s) => s switch
-// {
-//     "aa" => "geçtin".ToUpper(),
-//     "bb" => "geçtin ama yetersiz".ToUpper(),
-//     "cc" => "yetersiz".ToUpper(),
-//     "dd" => "kaldın".ToUpper(),
-//     _ => "sevcan".ToUpper()
-// };
-
+     
 //4.Kullanıcının girdiği 5 sayıdan 50′ den büyük olanların toplamını
 // gösteren Console programı
 
@@ -134,3 +104,56 @@
 // 7. Kullanıcıdan başlangıç,bitiş ve artım değeri istenerek, 
 //  verilen artış miktarına göre başlangıç ve bitiş sayıları arasındaki 
 //  sayıları ekranda gösteren programı
+
+
+// int baslangic,bitis,artis;
+// Console.Write("başlanıç değerini giriniz:");
+// baslangic=Convert.ToInt32(Console.ReadLine());
+// Console.Write("bitiş değerini giriniz:");
+// bitis=Convert.ToInt32(Console.ReadLine());
+// Console.Write("artış değerini giriniz:");
+// artis=Convert.ToInt32(Console.ReadLine());
+
+
+//   for(int i=baslangic;i<=bitis;i+=artis)
+//             {
+//                 Console.WriteLine(i);
+//           }
+
+//8.10 elemanlı diziye değer girme ve dizi içindeki değerlerleri For
+// Döngüsü kullanarak yazdırma
+
+//  int[] eleman=new int [10];
+// eleman[0]=13;
+
+//  for (int i = 0; i < eleman.Length; i++)
+//  {
+//     Console.WriteLine(eleman[i]);
+//  }
+
+//9. C# 1 – 1.000.000 Arasındaki Asal Sayıları Listeleme
+
+// int kontrol = 0, sayac = 0;
+// for (int i = 2; i <= 1000000; i++)
+// {
+//     kontrol = 0;
+//     for (int j = 2; j <= i / 2; j++)
+//     {
+//         if (i % j == 0)
+//         {
+//             kontrol++;
+//             break;
+//         }
+//     }
+//     if (kontrol == 0)
+//     {
+//         sayac++;
+//         Console.Write(i + "-");
+//     }
+// }
+// Console.WriteLine();
+// Console.WriteLine("{0} adet asal sayı bulundu.", sayac);
+
+
+
+
