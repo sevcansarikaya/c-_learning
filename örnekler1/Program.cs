@@ -131,7 +131,7 @@
 //     Console.WriteLine(eleman[i]);
 //  }
 
-//9. C# 1 – 1.000.000 Arasındaki Asal Sayıları Listeleme
+// 9. C# 1 – 1.000.000 Arasındaki Asal Sayıları Listeleme
 
 // int kontrol = 0, sayac = 0;
 // for (int i = 2; i <= 1000000; i++)

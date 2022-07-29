@@ -1,9 +1,10 @@
 ﻿using metodlar;
 using Mammals;
+using ClassMember;
 
 // Mathematic mat = new Mathematic();
 // mat.bol(5, 3);
-Console.WriteLine("Çalıştı sevcan");
+// Console.WriteLine("Çalıştı sevcan");
 
 
 // // Class 
@@ -30,9 +31,9 @@ Console.WriteLine("Çalıştı sevcan");
 //     isHaveSalary = false
 // };
 
-Human sena = new();
-sena.Name = "Sena";
-sena.Surname = "Yaman";
+// Human sena = new();
+// sena.Name = "Sena";
+// sena.Surname = "Yaman";
 
 // bool enough = Human.IsEnoughSalary(6000);
 
@@ -46,11 +47,13 @@ sena.Surname = "Yaman";
 // }
 
 
-if (Human.IsEnoughSalary(6000))
-{
-    Console.WriteLine("Yterli maaş var");
-}
-else
-{
-    Console.WriteLine("Yterli maaş yok");
-}
+// if (Human.IsEnoughSalary(6000))
+// {
+//     Console.WriteLine("Yterli maaş var");
+// }
+// else
+// {
+//     Console.WriteLine("Yterli maaş yok");
+// }
+
+new Ornek();
